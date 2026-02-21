@@ -67,4 +67,4 @@ while True:
     elif escolha == "6":
         break
     
-print(f"Programa Encerrado.")
+print(f"Programa Encerrado o")
